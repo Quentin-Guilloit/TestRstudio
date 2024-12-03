@@ -1,5 +1,5 @@
 # README practise 
-
+#modif inutie 
 ## Goals 
   
   Creat a first well organise compendium 
